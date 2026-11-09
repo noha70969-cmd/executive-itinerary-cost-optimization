@@ -226,3 +226,4 @@ It includes:
 - A Departure Date timeline for filtering the analysis.
 
 A dashboard screenshot will be included here to provide a visual preview of the project.
+![Executive Itinerary Cost Optimization Dashboard](Executive%20Itinerary%20Dashboard.png)
