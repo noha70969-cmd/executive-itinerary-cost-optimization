@@ -227,3 +227,5 @@ It includes:
 
 A dashboard screenshot will be included here to provide a visual preview of the project.
 ![Executive Itinerary Cost Optimization Dashboard](Executive%20Itinerary%20Dashboard.png)
+
+📥 **[Download Excel Workbook](https://github.com/noha70969-cmd/executive-itinerary-cost-optimization/raw/refs/heads/main/Executive%20Itinerary%20Cost%20Optimization%20Github.xlsx)**
